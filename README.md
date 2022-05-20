@@ -3,7 +3,7 @@
 
 # Contact form
 
-> Description the project.
+> This project consists on Builting a responsive Portfolio from the Mobile version to the Desktop version, using Html and Css.
 
 
 ## Built With
@@ -19,39 +19,23 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To get a local copy just download the repository ZIP, UNZIP then open the Index.html file.
 
 
-To get a local copy up and running follow these simple example steps.
+## Author 
 
-### Prerequisites
+👤**Amel Khiri**
 
-### Setup
+- GitHub: [@Algerina](https://github.com/Algerina)
+- LinkedIn: [@Amel Khiri](https://linkedin.com/in/amel-khiri-qahwadji-37a550135)
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Author
-
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+
 
 ## Show your support
 
@@ -68,5 +52,3 @@ Give a ⭐️ if you like this project!
 This project is [MIT](./MIT.md) licensed.
 
 This repo host an initial code for the tasks performed during the Code Reviewers training.
-
-Application is based on this [Figma design](https://www.figma.com/file/t3EJUCAEViw3QasuJLPLVT/Microverse-Student-Potfolio-Templates-Main?node-id=1%3A1471).
